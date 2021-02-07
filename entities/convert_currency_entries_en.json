@@ -1,0 +1,60 @@
+[
+  {
+    "value": "USD",
+    "synonyms": [
+      "USD",
+      "US dollars"
+    ]
+  },
+  {
+    "value": "GBP",
+    "synonyms": [
+      "GBP",
+      "British pounds, pounds £",
+      "Pound sterling"
+    ]
+  },
+  {
+    "value": "EUR",
+    "synonyms": [
+      "EUR",
+      "euro, €"
+    ]
+  },
+  {
+    "value": "CAD",
+    "synonyms": [
+      "CAD",
+      "Canadian dollar",
+      "Canadian dollars"
+    ]
+  },
+  {
+    "value": "CHF",
+    "synonyms": [
+      "CHF",
+      "Swiss franc"
+    ]
+  },
+  {
+    "value": "NZD",
+    "synonyms": [
+      "NZD",
+      "New Zealand dollar"
+    ]
+  },
+  {
+    "value": "JPY",
+    "synonyms": [
+      "JPY",
+      "Japanese yen"
+    ]
+  },
+  {
+    "value": "AUD",
+    "synonyms": [
+      "AUD",
+      "Australian dollar"
+    ]
+  }
+]

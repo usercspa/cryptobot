@@ -1,0 +1,9 @@
+{
+  "id": "5f578c69-db7b-432d-87d9-ecc49809d27c",
+  "name": "buy_amount",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

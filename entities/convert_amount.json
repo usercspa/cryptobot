@@ -1,0 +1,9 @@
+{
+  "id": "5a28b855-4d5f-4130-95e7-fe6fe2399142",
+  "name": "convert_amount",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "8ecb4a94-5d80-423a-b9b4-36b9ff674f0d",
+  "name": "bitcoin_address",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

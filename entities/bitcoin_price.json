@@ -1,0 +1,9 @@
+{
+  "id": "da3ecf2c-7104-4d1e-8c9a-82c66d6bec63",
+  "name": "bitcoin_price",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

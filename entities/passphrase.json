@@ -1,0 +1,9 @@
+{
+  "id": "08423ef2-fd2a-4e61-b941-21dc9b705b7b",
+  "name": "passphrase",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

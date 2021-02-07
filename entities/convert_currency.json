@@ -1,0 +1,9 @@
+{
+  "id": "4cc9193e-d06f-4c8e-8171-385e776cd41f",
+  "name": "convert_currency",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
