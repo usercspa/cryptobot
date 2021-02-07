@@ -13,6 +13,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
  
   function welcome(agent) {
     agent.add(`Welcome to cryptobot!`);
+    agent.add(`Welcome to cryptobot! What can I help you today?`);
   }
  
   function fallback(agent) {
@@ -20,40 +21,44 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     agent.add(`I'm sorry I did'nt get it. Would you like to check balance, sell bitcoin, buy bitcoin, check bitcoin price or convert to dollars?`);
   }
 
-  // // Uncomment and edit to make your own intent handler
-  // // uncomment `intentMap.set('your intent name here', yourFunctionHandler);`
-  // // below to get this function to be run when a Dialogflow intent is matched
-  // function yourFunctionHandler(agent) {
-  //   agent.add(`This message is from Dialogflow's Cloud Functions for Firebase editor!`);
-  //   agent.add(new Card({
-  //       title: `Title: this is a card title`,
-  //       imageUrl: 'https://developers.google.com/actions/images/badges/XPM_BADGING_GoogleAssistant_VER.png',
-  //       text: `This is the body text of a card.  You can even use line\n  breaks and emoji! 💁`,
-  //       buttonText: 'This is a button',
-  //       buttonUrl: 'https://assistant.google.com/'
-  //     })
-  //   );
-  //   agent.add(new Suggestion(`Quick Reply`));
-  //   agent.add(new Suggestion(`Suggestion`));
-  //   agent.setContext({ name: 'weather', lifespan: 2, parameters: { city: 'Rome' }});
-  // }
+  function buy(agent) {
+    agent.add(`How much bitcoin would you like to buy?`);
+  }
 
-  // // Uncomment and edit to make your own Google Assistant intent handler
-  // // uncomment `intentMap.set('your intent name here', googleAssistantHandler);`
-  // // below to get this function to be run when a Dialogflow intent is matched
-  // function googleAssistantHandler(agent) {
-  //   let conv = agent.conv(); // Get Actions on Google library conv instance
-  //   conv.ask('Hello from the Actions on Google client library!') // Use Actions on Google library
-  //   agent.add(conv); // Add Actions on Google library responses to your agent's response
-  // }
-  // // See https://github.com/dialogflow/fulfillment-actions-library-nodejs
-  // // for a complete Dialogflow fulfillment library Actions on Google client library v2 integration sample
+  function confirm_buy(agent) {
+    agent.add(`You are going to buy bitcoin, please confirm?`);
+  }
 
-  // Run the proper function handler based on the matched Dialogflow intent name
+    function confirm_sell(agent) {
+    agent.add(`You are going to sell bitcoin, please confirm?`);
+  }
+
+  function sell(agent) {
+    agent.add(`How much bitcoin would you like to sell?`);
+  }
+
+  function convert(agent) {
+    agent.add(`How much bitcoin would you like to convert?`);
+    agent.add(`Which currency would you like to convert to?`);
+  }
+
+  function passphrase(agent) {
+    agent.add(`Please provide 3-4 words as passphrase`);
+  }
+
+    function check_price(agent) {
+    agent.add(`Would you like to check bitcoin price for today?`);
+  }
+
   let intentMap = new Map();
-  intentMap.set('Default Welcome Intent', welcome);
-  intentMap.set('Default Fallback Intent', fallback);
-  // intentMap.set('your intent name here', yourFunctionHandler);
-  // intentMap.set('your intent name here', googleAssistantHandler);
+  intentMap.set('Welcome Intent', welcome);
+  intentMap.set('Fallback Intent', fallback);
+  intentMap.set('Buy bitcoin', buy);
+  intentMap.set('Buy bitcoin - confirm', confirm_buy);
+  intentMap.set('Sell bitcoin', sell);
+  intentMap.set('Sell bitcoin - confirm', confirm_sell);
+  intentMap.set('Transfer dollars', convert);
+  intentMap.set('Change passphrase', passphrase);
+  intentMap.set('check bitcoin price', check_price);
   agent.handleRequest(intentMap);
 });
