@@ -1,0 +1,39 @@
+{
+  "id": "84e2d534-9a33-4abb-a561-7a94ba891a2c",
+  "name": "Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Do you want to check balance, change passphrase, sell bitcoin, buy bitcoin, transfer to dollars or check bitcoin price?",
+            "I missed what you said. Do you want to check balance, change passphrase, sell bitcoin, buy bitcoin, transfer to dollars or check bitcoin price?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that? Do you want to check balance, change passphrase, sell bitcoin, buy bitcoin, transfer to dollars or check bitcoin price?",
+            "One more time? Do you want to check balance, change passphrase, sell bitcoin, buy bitcoin, transfer to dollars or check bitcoin price?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

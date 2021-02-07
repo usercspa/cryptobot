@@ -1,0 +1,95 @@
+[
+  {
+    "id": "b904ab34-bf20-4e2e-a825-c3a9ef51fcdf",
+    "data": [
+      {
+        "text": "sell my bitcoins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b7825ea-f4f1-447d-a686-a3aad445b619",
+    "data": [
+      {
+        "text": "sell all my ",
+        "userDefined": false
+      },
+      {
+        "text": "bitcoins",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93c84ee3-7137-4b33-8361-6f446dc73755",
+    "data": [
+      {
+        "text": "Sell ",
+        "userDefined": false
+      },
+      {
+        "text": "₿3432",
+        "meta": "@sell_amount",
+        "alias": "sell_amount",
+        "userDefined": true
+      },
+      {
+        "text": " of my bitcoin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5974478b-e706-44bc-a620-4fac63e03bb5",
+    "data": [
+      {
+        "text": "Sell ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "meta": "@sell_amount",
+        "alias": "sell_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3139967e-7bcd-4b55-b790-56890d2ec50d",
+    "data": [
+      {
+        "text": "Sell ",
+        "userDefined": false
+      },
+      {
+        "text": "฿500",
+        "meta": "@sell_amount",
+        "alias": "sell_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

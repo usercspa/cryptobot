@@ -1,0 +1,135 @@
+[
+  {
+    "id": "6c9e2415-19e9-4f82-9160-76e8609ab52f",
+    "data": [
+      {
+        "text": "convert to ",
+        "userDefined": false
+      },
+      {
+        "text": "canadian dollars",
+        "meta": "@convert_currency",
+        "alias": "convert_currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7ba5bc8-eede-4cad-87fb-4da6ef7e123d",
+    "data": [
+      {
+        "text": "transfer to ",
+        "userDefined": false
+      },
+      {
+        "text": "eur",
+        "meta": "@convert_currency",
+        "alias": "convert_currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b26ad3ed-5c98-4c34-bba6-b40220f6099b",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "389",
+        "meta": "@convert_amount",
+        "alias": "convert_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "690fe6d3-24d0-4635-a2ab-cbf77676dd6a",
+    "data": [
+      {
+        "text": "transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "342",
+        "meta": "@convert_amount",
+        "alias": "convert_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cee696f7-a1e7-4013-84e0-bdbb4f3bc4a2",
+    "data": [
+      {
+        "text": "transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "3122",
+        "meta": "@convert_amount",
+        "alias": "convert_amount",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "dollars",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a26238da-8464-4d49-9b71-ca7fa8778cae",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "324 bitcoin",
+        "meta": "@convert_amount",
+        "alias": "convert_amount",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "usd",
+        "meta": "@convert_currency",
+        "alias": "convert_currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

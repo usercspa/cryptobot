@@ -1,0 +1,320 @@
+[
+  {
+    "id": "29dd84f5-78c1-48ec-a2e7-303166a78814",
+    "data": [
+      {
+        "text": "i am a deadline fighter",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cc55060-7861-41da-83d4-8b75b1c25390",
+    "data": [
+      {
+        "text": "i love cats",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21029331-433b-4938-918c-f0211e0b8742",
+    "data": [
+      {
+        "text": "procrastinate to the last min",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "192b9ffa-b1e6-40fe-b4ab-89c1504262ec",
+    "data": [
+      {
+        "text": "wonderland in action",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62457afd-b3f7-405a-97f3-04bf7ada94f8",
+    "data": [
+      {
+        "text": "whole new world",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceacdee8-9200-4c25-a761-02558c7f068f",
+    "data": [
+      {
+        "text": "update password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2624924-c445-4f6b-a6aa-b3b115362883",
+    "data": [
+      {
+        "text": "change password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e9f1bc9-da8f-4f52-beb2-be81219a9f53",
+    "data": [
+      {
+        "text": "change ",
+        "userDefined": false
+      },
+      {
+        "text": "pw",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e039342-3454-4cb7-a735-7ab579756d84",
+    "data": [
+      {
+        "text": "change my secret phrase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68fa4ca9-2918-4fc6-9bad-8e95dca518bb",
+    "data": [
+      {
+        "text": "update passphrase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be3d8b4d-2400-46c9-b518-80fafaeee2eb",
+    "data": [
+      {
+        "text": "I would like to change my passphrase to ",
+        "userDefined": false
+      },
+      {
+        "text": "creepy deep ocean",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c94adac2-6575-4520-bfaf-e2bc9197bd6a",
+    "data": [
+      {
+        "text": "passphrase change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b93ce20c-dee7-4f47-97ba-b09b166cd55a",
+    "data": [
+      {
+        "text": "I would like to change my passphrase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b723846-c420-4f41-a674-083371bcf27a",
+    "data": [
+      {
+        "text": "set a new passphrase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84f567eb-6182-4200-ac21-bc7a842fc561",
+    "data": [
+      {
+        "text": "update my passphrase to ",
+        "userDefined": false
+      },
+      {
+        "text": "fatty stubborn landlord",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aca6f388-48a2-4aaf-821e-5adf7c51b3da",
+    "data": [
+      {
+        "text": "make a new passphrase - ",
+        "userDefined": false
+      },
+      {
+        "text": "humble jumble",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "178d10d9-83c3-41dc-b994-c2770b43f4f4",
+    "data": [
+      {
+        "text": "new passphrase -  ",
+        "userDefined": false
+      },
+      {
+        "text": "amazing grace",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35dd0f6a-4de2-4d45-b434-998d8b31e899",
+    "data": [
+      {
+        "text": "passphrase change: ",
+        "userDefined": false
+      },
+      {
+        "text": "good weather may",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a7bd770-bf7f-44a2-8035-a479ba4ec3fb",
+    "data": [
+      {
+        "text": "change my passphrase to ",
+        "userDefined": false
+      },
+      {
+        "text": "I hate dogs",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3967c24-e2ab-4d81-93bd-85a06dea17eb",
+    "data": [
+      {
+        "text": "change passphrase to ",
+        "userDefined": false
+      },
+      {
+        "text": "I like ice cream",
+        "meta": "@passphrase",
+        "alias": "passphrase",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

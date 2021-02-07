@@ -1,0 +1,54 @@
+{
+  "id": "9dd333e4-b742-4733-ba7c-a81a12f84674",
+  "parentId": "2f52bdcf-fb7c-4e1f-879f-c65d862f7cb8",
+  "rootParentId": "2f52bdcf-fb7c-4e1f-879f-c65d862f7cb8",
+  "name": "Buy bitcoin - confirm",
+  "auto": true,
+  "contexts": [
+    "Buybitcoin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Buybitcoin.Buybitcoin-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8c80fbf-7427-4768-8c53-ba6629744266",
+          "name": "buy_amount",
+          "required": false,
+          "dataType": "@buy_amount",
+          "value": "$buy_amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You bought $buy_amount"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

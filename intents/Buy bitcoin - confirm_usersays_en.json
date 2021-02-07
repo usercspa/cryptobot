@@ -1,0 +1,151 @@
+[
+  {
+    "id": "7d7b5ee9-83a1-4ca6-b883-9962d3f54dde",
+    "data": [
+      {
+        "text": "buying ",
+        "userDefined": false
+      },
+      {
+        "text": "324",
+        "meta": "@buy_amount",
+        "alias": "buy_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ac957c5-3c89-406d-bc84-3ab3ef5f22d3",
+    "data": [
+      {
+        "text": "Confirm buying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff0ca1f8-d731-4847-9b66-94b27fc0bb7d",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f5aabd8-6b94-4eeb-a0c0-884bd869e979",
+    "data": [
+      {
+        "text": "go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e755ee6e-2cde-4e28-8344-91b812e576d5",
+    "data": [
+      {
+        "text": "yes confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28db2132-f542-4faf-a8eb-275c4830cab4",
+    "data": [
+      {
+        "text": "I confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e3e1716-5624-44eb-b9f0-f67a0336792a",
+    "data": [
+      {
+        "text": "go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "280a47f6-44c4-4232-8bd3-a5ef55fdf448",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47fdc622-1ac8-4996-a819-9c3fdc1b3a84",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "533f1824-9df0-4f08-bbbe-90492b773d24",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b65edd23-b71b-41b5-a989-d99b30a8c98d",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

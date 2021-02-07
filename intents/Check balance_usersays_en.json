@@ -1,0 +1,122 @@
+[
+  {
+    "id": "748381f4-557f-4b7d-80eb-f7168b2e6fe4",
+    "data": [
+      {
+        "text": "money I have in the account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "891a4e38-884b-412c-9636-6187d4f31bab",
+    "data": [
+      {
+        "text": "bitcoin I have in the account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84d40aae-9867-4748-81f1-1f554047992e",
+    "data": [
+      {
+        "text": "money remaining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2932efba-064d-4452-9758-c09703364338",
+    "data": [
+      {
+        "text": "bitcoin",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " remianing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02ae7a7e-8ea5-4aa9-983f-0713eedc8fa7",
+    "data": [
+      {
+        "text": "how much money I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60bb079a-72c2-4056-8d52-039844cd48bc",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "bitcoin",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04a3ae58-ac02-423d-a599-7d2a4ee2a8bd",
+    "data": [
+      {
+        "text": "check balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83e696e7-04c1-48fc-8183-c3a36c0f7976",
+    "data": [
+      {
+        "text": "check my balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

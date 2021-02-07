@@ -1,0 +1,138 @@
+[
+  {
+    "id": "52851c69-9e59-4a19-8573-b7a1883e86e5",
+    "data": [
+      {
+        "text": "I confirm selling ",
+        "userDefined": false
+      },
+      {
+        "text": "$451",
+        "meta": "@sell_amount",
+        "alias": "sell_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da983562-dcf5-4916-bfaa-e22ed588cf50",
+    "data": [
+      {
+        "text": "I confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bb47d85-6b9f-408e-b849-f9f995471407",
+    "data": [
+      {
+        "text": "sell it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbe9f38c-2233-4d4c-87c9-2bac4fce066c",
+    "data": [
+      {
+        "text": "sell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10f4d876-f3fe-4460-a4b3-742abf7091ba",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "340d9f35-6d2a-49bb-9be4-23c38d120258",
+    "data": [
+      {
+        "text": "yup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "957f6d7f-2c81-4e28-b0cc-012ab81f06b3",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b8bfa0d-90f6-4eb4-827c-456a60b55fb9",
+    "data": [
+      {
+        "text": "go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711367c0-df31-4942-a7d7-5e9c93369a86",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e79199b7-7441-4b5f-812a-9a1915755cee",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

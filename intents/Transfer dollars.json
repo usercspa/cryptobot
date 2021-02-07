@@ -1,0 +1,79 @@
+{
+  "id": "d9ae3024-3a8a-463c-934b-c61cdf738e54",
+  "name": "Transfer dollars",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Transferdollars-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d642df3-f5c2-4110-a6e7-7b5135087138",
+          "name": "convert_currency",
+          "required": true,
+          "dataType": "@convert_currency",
+          "value": "$convert_currency",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please input the currency code (for example USD) for the currency you want to convert"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d0d043cb-c720-4b9c-bfb4-ab21810559b3",
+          "name": "convert_amount",
+          "required": true,
+          "dataType": "@convert_amount",
+          "value": "$convert_amount",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the amount you would like to convert"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are converting $convert_amount to $convert_currency, please confirm?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

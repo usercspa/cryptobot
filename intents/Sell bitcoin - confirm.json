@@ -1,0 +1,54 @@
+{
+  "id": "ce66b8e9-e056-4296-9e9f-915cebc0d9d6",
+  "parentId": "632f881a-16b2-457e-b481-3bfdaac4b984",
+  "rootParentId": "632f881a-16b2-457e-b481-3bfdaac4b984",
+  "name": "Sell bitcoin - confirm",
+  "auto": true,
+  "contexts": [
+    "Sellbitcoin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sellbitcoin.Sellbitcoin-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16e34a7e-71fe-49cd-a47e-7deac8abfba3",
+          "name": "sell_amount",
+          "required": false,
+          "dataType": "@sell_amount",
+          "value": "$sell_amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You have sold @sell_amount and your new balance is {balance}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

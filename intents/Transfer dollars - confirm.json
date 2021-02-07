@@ -1,0 +1,68 @@
+{
+  "id": "47d6c095-30e9-4526-b4ca-bfeb44381c83",
+  "parentId": "d9ae3024-3a8a-463c-934b-c61cdf738e54",
+  "rootParentId": "d9ae3024-3a8a-463c-934b-c61cdf738e54",
+  "name": "Transfer dollars - confirm",
+  "auto": true,
+  "contexts": [
+    "Transferdollars-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Transferdollars.Transferdollars-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20aa40bd-bf2e-422e-8572-40f28975745e",
+          "name": "convert_currency",
+          "required": false,
+          "dataType": "@convert_currency",
+          "value": "$convert_currency",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db4179dd-0106-4e98-af9c-fec702eacf3a",
+          "name": "convert_amount",
+          "required": false,
+          "dataType": "@convert_amount",
+          "value": "$convert_amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You have converted $convert_amount to $convert_currency"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

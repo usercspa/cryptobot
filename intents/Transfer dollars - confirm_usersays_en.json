@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a11c5223-d44b-4ff1-b97e-1e85f167b358",
+    "data": [
+      {
+        "text": "I confirm converting ",
+        "userDefined": false
+      },
+      {
+        "text": "342",
+        "meta": "@convert_amount",
+        "alias": "convert_amount",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "us dollars",
+        "meta": "@convert_currency",
+        "alias": "convert_currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba4108a0-4950-41b0-8aa6-6691208870ad",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fde77da0-5160-4532-bf53-711675952a9e",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "552bef7b-e9e2-4aba-ad87-06917104fcce",
+    "data": [
+      {
+        "text": "go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cef6260-b10c-46b0-b075-e9b4cda309ef",
+    "data": [
+      {
+        "text": "I confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1729cd1-6007-4713-804a-53ad464de9e4",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9686830-7ad4-4957-9f6f-e5f346e3feda",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2a32038-caee-449d-a728-35a21ac2804f",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

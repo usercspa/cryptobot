@@ -1,0 +1,120 @@
+[
+  {
+    "id": "27cde39f-aa34-46e2-abd3-3b4179b40d76",
+    "data": [
+      {
+        "text": "buy ",
+        "userDefined": false
+      },
+      {
+        "text": "432",
+        "meta": "@buy_amount",
+        "alias": "buy_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "708f9d0f-eeed-4918-ae3b-ebcb959ee382",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "$324",
+        "meta": "@buy_amount",
+        "alias": "buy_amount",
+        "userDefined": true
+      },
+      {
+        "text": " bitcoin, how much is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a77a7c9-0947-45cf-9717-3b31fa75613e",
+    "data": [
+      {
+        "text": "buy ",
+        "userDefined": false
+      },
+      {
+        "text": "bitcoins",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab5172db-c315-42aa-9f4d-29204b8fd8a2",
+    "data": [
+      {
+        "text": "buy ",
+        "userDefined": false
+      },
+      {
+        "text": "bitcoin",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3405581-c677-4cdc-a0f8-e9f293a2c45c",
+    "data": [
+      {
+        "text": "buy me $",
+        "userDefined": false
+      },
+      {
+        "text": "82349 bitcoins",
+        "meta": "@buy_amount",
+        "alias": "buy_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "447076b4-2b9e-454e-9750-a2af1fd9ed81",
+    "data": [
+      {
+        "text": "buy $",
+        "userDefined": false
+      },
+      {
+        "text": "213",
+        "meta": "@buy_amount",
+        "alias": "buy_amount",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
